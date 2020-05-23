@@ -1,0 +1,6 @@
+PING google.com (74.125.193.138) 56(84) bytes of data.
+64 bytes from ig-in-f138.1e100.net (74.125.193.138): icmp_seq=1 ttl=47 time=10.0 ms
+
+--- google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 10.037/10.037/10.037/0.000 ms
